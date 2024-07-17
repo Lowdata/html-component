@@ -103,26 +103,6 @@ input[type="checkbox"] {
     border-radius: 20px;
 }
 
-@media (max-width: 600px) {
-    .component-container {
-        padding: 10px;
-    }
-
-    .button {
-        font-size: 14px;
-    }
-
-    .item {
-        font-size: 14px;
-        padding: 8px;
-    }
-
-    input[type="checkbox"] {
-        width: 20px;
-        height: 20px;
-    }
-}
-
 /* Check Box CSS */
 .checkbox-wrapper-13 input[type=checkbox] {
     --active: #275EFE;
